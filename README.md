@@ -1,2 +1,2 @@
 # How-to-make-an-integral-of-calculus
-Hola Bonjour Aloha! Neska is here! Temen-temen tau gak sih? Apa itu integral? Dan bagaimana cara membuat integral kalkulus menggunakan python?
+Hola Bonjour Aloha! Neska is here! Temen-temen tau gak sih? Apa itu integral? Integral adalah sebuah konsep penjumlahan secara berkesinambungan dalam matematika.Dan [bagaimana cara membuat integral kalkulus menggunakan python?](https://github.com/neskamutiaraistri/How-to-make-an-integral-of-calculus/blob/c5d3d02c31fc87f4c2fcd27cc87215477aa09ee7/Soal%20Integral%20Kalkulus.py)
